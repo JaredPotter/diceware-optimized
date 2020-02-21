@@ -2,7 +2,7 @@
     <div class="diceware-optimized-page-container">
         <h1>Welcome To Diceware Optimized</h1>
         <h3>Diceware is a commonly used method for picking a master password.</h3>
-        <h3>The method largely relies on the fact that for the average person benefits more from a longer password is better than a very complex password.</h3>
+        <h3>The method largely relies on the fact that for the average person benefits more from a longer password than a complex password.</h3>
         <h1>Let's Get Started!</h1>
         <h3>1.) Pick the number of words</h3>
         <label>
